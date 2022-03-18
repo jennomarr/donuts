@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: lightpink;
+}
+.menu-bar {
+  padding: 0px;
+  margin: 0 auto;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.menu-bar li {
+  margin: 20px;
+}
+.figure {
+  max-width: 300px;
+}
